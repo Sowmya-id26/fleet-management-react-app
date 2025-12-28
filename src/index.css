@@ -1,0 +1,28 @@
+.page {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+.todo-item {
+  cursor: pointer;
+  margin: 6px 0;
+}
+
+.todo-item:hover {
+  text-decoration: underline;
+}
+
+.error {
+  color: red;
+}
